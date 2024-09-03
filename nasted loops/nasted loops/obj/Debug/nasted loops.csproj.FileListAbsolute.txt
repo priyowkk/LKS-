@@ -1,0 +1,7 @@
+D:\c# angga SLEKDA\nasted loops\nasted loops\bin\Debug\nasted loops.exe.config
+D:\c# angga SLEKDA\nasted loops\nasted loops\bin\Debug\nasted loops.exe
+D:\c# angga SLEKDA\nasted loops\nasted loops\bin\Debug\nasted loops.pdb
+D:\c# angga SLEKDA\nasted loops\nasted loops\obj\Debug\nasted loops.csproj.AssemblyReference.cache
+D:\c# angga SLEKDA\nasted loops\nasted loops\obj\Debug\nasted loops.csproj.CoreCompileInputs.cache
+D:\c# angga SLEKDA\nasted loops\nasted loops\obj\Debug\nasted loops.exe
+D:\c# angga SLEKDA\nasted loops\nasted loops\obj\Debug\nasted loops.pdb
