@@ -6,9 +6,9 @@ class Program
     {
         string[] cars = new string[3];
 
-        cars[0] = "kontol";
-        cars[1] = "asu";
-        cars[2] = "memek";
+        cars[0] = "vario";
+        cars[1] = "supra";
+        cars[2] = "nmax";
 
         for (int i = 0;i < cars.Length;i++)
         {
