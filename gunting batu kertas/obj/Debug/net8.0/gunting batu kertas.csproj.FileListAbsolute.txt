@@ -1,0 +1,14 @@
+D:\gunting batu kertas\gunting batu kertas\bin\Debug\net8.0\gunting batu kertas.exe
+D:\gunting batu kertas\gunting batu kertas\bin\Debug\net8.0\gunting batu kertas.deps.json
+D:\gunting batu kertas\gunting batu kertas\bin\Debug\net8.0\gunting batu kertas.runtimeconfig.json
+D:\gunting batu kertas\gunting batu kertas\bin\Debug\net8.0\gunting batu kertas.dll
+D:\gunting batu kertas\gunting batu kertas\bin\Debug\net8.0\gunting batu kertas.pdb
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.GeneratedMSBuildEditorConfig.editorconfig
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.AssemblyInfoInputs.cache
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.AssemblyInfo.cs
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.csproj.CoreCompileInputs.cache
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.dll
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\refint\gunting batu kertas.dll
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.pdb
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\gunting batu kertas.genruntimeconfig.cache
+D:\gunting batu kertas\gunting batu kertas\obj\Debug\net8.0\ref\gunting batu kertas.dll
