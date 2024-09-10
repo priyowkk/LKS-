@@ -1,7 +1,0 @@
-D:\c# angga SLEKDA\num guess\num guess\bin\Debug\num guess.exe.config
-D:\c# angga SLEKDA\num guess\num guess\bin\Debug\num guess.exe
-D:\c# angga SLEKDA\num guess\num guess\bin\Debug\num guess.pdb
-D:\c# angga SLEKDA\num guess\num guess\obj\Debug\num guess.csproj.AssemblyReference.cache
-D:\c# angga SLEKDA\num guess\num guess\obj\Debug\num guess.csproj.CoreCompileInputs.cache
-D:\c# angga SLEKDA\num guess\num guess\obj\Debug\num guess.exe
-D:\c# angga SLEKDA\num guess\num guess\obj\Debug\num guess.pdb
