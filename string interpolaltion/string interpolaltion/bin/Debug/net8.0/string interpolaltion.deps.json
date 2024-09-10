@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "string interpolaltion/1.0.0": {
+        "runtime": {
+          "string interpolaltion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "string interpolaltion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
