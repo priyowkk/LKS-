@@ -1,7 +1,0 @@
-D:\c# angga SLEKDA\forloops\forloops\bin\Debug\forloops.exe.config
-D:\c# angga SLEKDA\forloops\forloops\bin\Debug\forloops.exe
-D:\c# angga SLEKDA\forloops\forloops\bin\Debug\forloops.pdb
-D:\c# angga SLEKDA\forloops\forloops\obj\Debug\forloops.csproj.AssemblyReference.cache
-D:\c# angga SLEKDA\forloops\forloops\obj\Debug\forloops.csproj.CoreCompileInputs.cache
-D:\c# angga SLEKDA\forloops\forloops\obj\Debug\forloops.exe
-D:\c# angga SLEKDA\forloops\forloops\obj\Debug\forloops.pdb
