@@ -1,0 +1,14 @@
+D:\c#\array of objects\array of objects\bin\Debug\net8.0\array of objects.exe
+D:\c#\array of objects\array of objects\bin\Debug\net8.0\array of objects.deps.json
+D:\c#\array of objects\array of objects\bin\Debug\net8.0\array of objects.runtimeconfig.json
+D:\c#\array of objects\array of objects\bin\Debug\net8.0\array of objects.dll
+D:\c#\array of objects\array of objects\bin\Debug\net8.0\array of objects.pdb
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.AssemblyInfoInputs.cache
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.AssemblyInfo.cs
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.csproj.CoreCompileInputs.cache
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.dll
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\refint\array of objects.dll
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.pdb
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\array of objects.genruntimeconfig.cache
+D:\c#\array of objects\array of objects\obj\Debug\net8.0\ref\array of objects.dll
