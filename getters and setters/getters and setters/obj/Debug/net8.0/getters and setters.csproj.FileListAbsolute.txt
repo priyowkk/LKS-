@@ -1,0 +1,14 @@
+D:\c#\getters and setters\getters and setters\bin\Debug\net8.0\getters and setters.exe
+D:\c#\getters and setters\getters and setters\bin\Debug\net8.0\getters and setters.deps.json
+D:\c#\getters and setters\getters and setters\bin\Debug\net8.0\getters and setters.runtimeconfig.json
+D:\c#\getters and setters\getters and setters\bin\Debug\net8.0\getters and setters.dll
+D:\c#\getters and setters\getters and setters\bin\Debug\net8.0\getters and setters.pdb
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.AssemblyInfoInputs.cache
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.AssemblyInfo.cs
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.csproj.CoreCompileInputs.cache
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.dll
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\refint\getters and setters.dll
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.pdb
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\getters and setters.genruntimeconfig.cache
+D:\c#\getters and setters\getters and setters\obj\Debug\net8.0\ref\getters and setters.dll
