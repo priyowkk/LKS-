@@ -1,0 +1,14 @@
+D:\c#\enums\enums\bin\Debug\net8.0\enums.exe
+D:\c#\enums\enums\bin\Debug\net8.0\enums.deps.json
+D:\c#\enums\enums\bin\Debug\net8.0\enums.runtimeconfig.json
+D:\c#\enums\enums\bin\Debug\net8.0\enums.dll
+D:\c#\enums\enums\bin\Debug\net8.0\enums.pdb
+D:\c#\enums\enums\obj\Debug\net8.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\enums\enums\obj\Debug\net8.0\enums.AssemblyInfoInputs.cache
+D:\c#\enums\enums\obj\Debug\net8.0\enums.AssemblyInfo.cs
+D:\c#\enums\enums\obj\Debug\net8.0\enums.csproj.CoreCompileInputs.cache
+D:\c#\enums\enums\obj\Debug\net8.0\enums.dll
+D:\c#\enums\enums\obj\Debug\net8.0\refint\enums.dll
+D:\c#\enums\enums\obj\Debug\net8.0\enums.pdb
+D:\c#\enums\enums\obj\Debug\net8.0\enums.genruntimeconfig.cache
+D:\c#\enums\enums\obj\Debug\net8.0\ref\enums.dll
